@@ -214,4 +214,4 @@ IKARUS Antivirus is provided as a **full free version**, meaning all features an
 Protect your computer today with the **official IKARUS Antivirus free download** and enjoy comprehensive security without limitations!
 
 ---
-**Last updated:** 2026-10-06 21:22:06 UTC
+**Last updated:** 2026-10-07 01:06:54 UTC
